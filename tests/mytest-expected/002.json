@@ -1,0 +1,11 @@
+{
+  "input": {
+    "counter_ui_1-button": 2
+  },
+  "output": {
+    "counter_ui_1-out": "2"
+  },
+  "export": {
+
+  }
+}

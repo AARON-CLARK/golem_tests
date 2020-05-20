@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589989415126.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2776125721",
+    "id" : "9B06D0A3",
+    "lastKnownWriteTime" : 1589989414,
+    "last_content_update" : 1589989414,
+    "path" : "~/GitHub/reprex/golem.may6/tests/mytest.R",
+    "project_path" : "tests/mytest.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

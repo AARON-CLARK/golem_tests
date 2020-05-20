@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588776542465.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A65B1AFF",
+    "lastKnownWriteTime" : 1588776587,
+    "last_content_update" : 1588776587687,
+    "path" : "~/GitHub/reprex/golem.may6/R/mod_counter.R",
+    "project_path" : "R/mod_counter.R",
+    "properties" : {
+        "cursorPosition" : "33,4",
+        "scrollLine" : "6"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

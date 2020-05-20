@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588776602410.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2724903451",
+    "id" : "A24F7720",
+    "lastKnownWriteTime" : 1588776787,
+    "last_content_update" : 1588776787981,
+    "path" : "~/GitHub/reprex/golem.may6/R/app_ui.R",
+    "project_path" : "R/app_ui.R",
+    "properties" : {
+        "cursorPosition" : "12,23",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

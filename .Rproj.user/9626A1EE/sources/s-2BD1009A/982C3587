@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589990173144.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3691167604",
+    "id" : "982C3587",
+    "lastKnownWriteTime" : 1589990172,
+    "last_content_update" : 1589990172,
+    "path" : "~/GitHub/reprex/golem.may6/vignettes/golemmay6.Rmd",
+    "project_path" : "vignettes/golemmay6.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
